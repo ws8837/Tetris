@@ -1,10 +1,10 @@
-Tetris
+# Tetris
 
-## Introduction
+### Introduction
  This is an interactive Tetris game built using tkinter, controlled using keyboard input.
  Score.txt is a file that saves your highest record in game and display it on screen.
 
-## How to play
+### How to play
   Run Tetris.py to play. 
   
   Keyboard inputs:
@@ -13,8 +13,7 @@ Tetris
   Left: Move the tetris piece to the left
   Right: Move the tetris piece to the right
  
-## Requirements:
+### Requirements:
   tkinter
-  
   
 Enjoy!
